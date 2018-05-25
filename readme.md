@@ -1,6 +1,16 @@
 # Image specificity
 
-This folder contains everything to generate image specificity scores for our selected images.
+This repository contains everything to generate image specificity scores for a set of images, based on their descriptions.
+More details are provided in our COLING paper. If you've found this code useful, please cite:
+
+```
+@inproceedings{miltenburg2018DIDEC,
+	Author = {Emiel van Miltenburg and \'Akos K\'adar and Ruud Koolen and Emiel Krahmer},
+	Booktitle = {Proceedings of COLING},
+	Publisher = {ACL},
+	Title = {DIDEC: The Dutch Image Description and Eye-tracking Corpus},
+	Year = {2018}}
+```
 
 ## Requirements
 We used Python 3.6.1, to optimize the specificity metric using the `@lru_cache` decorator.
