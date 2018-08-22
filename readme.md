@@ -4,12 +4,15 @@ This repository contains everything to generate image specificity scores for a s
 More details are provided in our COLING paper. If you've found this code useful, please cite:
 
 ```
-@inproceedings{miltenburg2018DIDEC,
-	Author = {Emiel van Miltenburg and \'Akos K\'adar and Ruud Koolen and Emiel Krahmer},
-	Booktitle = {Proceedings of COLING},
-	Publisher = {ACL},
-	Title = {DIDEC: The Dutch Image Description and Eye-tracking Corpus},
-	Year = {2018}}
+@inproceedings{C18-1310,
+Author = {van Miltenburg, Emiel and K{\'a}d{\'a}r, {\'A}kos and Koolen, Ruud and Krahmer, Emiel},
+Booktitle = {Proceedings of the 27th International Conference on Computational Linguistics},
+Location = {Santa Fe, New Mexico, USA},
+Pages = {3658--3669},
+Publisher = {Association for Computational Linguistics},
+Title = {DIDEC: The Dutch Image Description and Eye-tracking Corpus},
+Url = {http://aclweb.org/anthology/C18-1310},
+Year = {2018},
 ```
 
 ## Requirements
